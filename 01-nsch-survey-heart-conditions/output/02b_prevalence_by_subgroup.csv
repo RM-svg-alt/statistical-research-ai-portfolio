@@ -1,0 +1,17 @@
+"characteristic","level","estimate_pct","se_pct","lcl_pct","ucl_pct","rao_scott_p"
+"Age group","0-5",1.772,0.113,1.563,2.008,0
+"Age group","6-11",1.407,0.102,1.221,1.62,NA
+"Age group","12-17",1.172,0.098,0.995,1.381,NA
+"Sex","Male",1.477,0.085,1.319,1.653,0.65
+"Sex","Female",1.422,0.086,1.264,1.6,NA
+"Race/ethnicity","NH White",1.395,0.085,1.238,1.572,0.2
+"Race/ethnicity","Hispanic",1.45,0.12,1.232,1.705,NA
+"Race/ethnicity","NH Black",1.866,0.228,1.468,2.371,NA
+"Race/ethnicity","NH Asian",1.489,0.325,0.969,2.281,NA
+"Race/ethnicity","NH Other/Multiple",1.309,0.147,1.05,1.631,NA
+"Household income (implicate 1)","<100% FPL",1.855,0.158,1.569,2.191,0.001
+"Household income (implicate 1)","100-199% FPL",1.293,0.098,1.115,1.5,NA
+"Household income (implicate 1)","200-399% FPL",1.291,0.095,1.118,1.492,NA
+"Household income (implicate 1)","400%+ FPL",1.452,0.14,1.201,1.754,NA
+"Uninsured","No",1.435,0.062,1.319,1.562,0.407
+"Uninsured","Yes",1.636,0.248,1.214,2.2,NA

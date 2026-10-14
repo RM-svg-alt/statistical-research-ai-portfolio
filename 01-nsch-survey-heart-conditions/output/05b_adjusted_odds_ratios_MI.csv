@@ -1,0 +1,25 @@
+"outcome","term","odds_ratio","lcl","ucl","p_value","fraction_missing_info"
+"Needed care not received","Current heart condition",2.593,1.931,3.482,0,0
+"Needed care not received","Age 6-11",1.089,0.96,1.235,0.187,0
+"Needed care not received","Age 12-17",1.319,1.165,1.493,0,0
+"Needed care not received","Female",0.95,0.858,1.052,0.324,0
+"Needed care not received","Hispanic",0.913,0.804,1.037,0.16,0.005
+"Needed care not received","NH Black",0.875,0.729,1.051,0.153,0.003
+"Needed care not received","NH Asian",1.043,0.8,1.359,0.757,0
+"Needed care not received","NH Other/Multiple",0.93,0.795,1.089,0.369,0
+"Needed care not received","Income 100-199% FPL",0.887,0.757,1.039,0.135,0.294
+"Needed care not received","Income 200-399% FPL",0.595,0.511,0.692,0,0.089
+"Needed care not received","Income 400%+ FPL",0.598,0.496,0.721,0,0.138
+"Needed care not received","Uninsured",3.051,2.658,3.501,0,0.003
+"Fair or poor general health","Current heart condition",15.14,11.458,20.006,0,0.003
+"Fair or poor general health","Age 6-11",0.796,0.628,1.009,0.06,0
+"Fair or poor general health","Age 12-17",0.938,0.744,1.182,0.586,0.001
+"Fair or poor general health","Female",0.834,0.686,1.013,0.067,0.001
+"Fair or poor general health","Hispanic",0.863,0.679,1.097,0.227,0.002
+"Fair or poor general health","NH Black",0.969,0.709,1.323,0.841,0.003
+"Fair or poor general health","NH Asian",0.729,0.397,1.336,0.306,0
+"Fair or poor general health","NH Other/Multiple",0.872,0.636,1.195,0.393,0
+"Fair or poor general health","Income 100-199% FPL",0.448,0.354,0.569,0,0.085
+"Fair or poor general health","Income 200-399% FPL",0.237,0.179,0.312,0,0.029
+"Fair or poor general health","Income 400%+ FPL",0.21,0.143,0.308,0,0.159
+"Fair or poor general health","Uninsured",1.148,0.827,1.592,0.409,0.003

@@ -1,0 +1,17 @@
+"weights","variable","estimate_pct","se_pct"
+"Equal base weights","heart_current",1.416,0.055
+"Equal base weights","fair_poor_health",1.059,0.048
+"Equal base weights","forgone_care",3.989,0.092
+"Equal base weights","uninsured",6.667,0.115
+"Raked","heart_current",1.437,0.057
+"Raked","fair_poor_health",1.207,0.055
+"Raked","forgone_care",4.231,0.099
+"Raked","uninsured",7.265,0.127
+"Official FWC","heart_current",1.45,0.06
+"Official FWC","fair_poor_health",1.202,0.058
+"Official FWC","forgone_care",4.279,0.105
+"Official FWC","uninsured",7.295,0.135
+"FWC trimmed + re-raked","heart_current",1.45,0.06
+"FWC trimmed + re-raked","fair_poor_health",1.202,0.057
+"FWC trimmed + re-raked","forgone_care",4.28,0.105
+"FWC trimmed + re-raked","uninsured",7.292,0.134

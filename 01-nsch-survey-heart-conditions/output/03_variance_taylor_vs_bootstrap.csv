@@ -1,0 +1,5 @@
+"estimand","n_unweighted","estimate_pct","se_srs_pct","se_taylor_pct","se_bootstrap_pct","ratio_boot_to_taylor"
+"Current heart condition, all children",46462,1.4499,0.0555,0.0603,0.0664,1.1012
+"Current heart condition, <100% FPL",8048,1.8545,0.1504,0.1582,0.1685,1.0656
+"Forgone care, children with a current heart condition",644,10.1022,1.1875,1.3438,1.3274,0.9878
+"Fair/poor health, children with a current heart condition",649,14.0569,1.3644,1.5069,1.6251,1.0784

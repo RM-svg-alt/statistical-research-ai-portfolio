@@ -1,0 +1,5 @@
+"variable","estimate_pct","se_pct","deff"
+"heart_current",1.45,0.06,1.184
+"fair_poor_health",1.202,0.058,1.291
+"forgone_care",4.279,0.105,1.236
+"uninsured",7.295,0.135,1.26

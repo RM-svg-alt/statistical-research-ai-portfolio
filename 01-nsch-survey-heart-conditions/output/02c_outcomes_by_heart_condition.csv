@@ -1,0 +1,7 @@
+"outcome","group","estimate_pct","se_pct","lcl_pct","ucl_pct","rao_scott_p"
+"Fair or poor general health","No current heart condition",1.018,0.054,0.918,1.129,0
+"Fair or poor general health","Current heart condition",14.057,1.507,11.349,17.285,NA
+"Needed care not received (past 12 months)","No current heart condition",4.186,0.105,3.985,4.397,0
+"Needed care not received (past 12 months)","Current heart condition",10.102,1.344,7.752,13.064,NA
+"Currently uninsured","No current heart condition",7.279,0.136,7.017,7.55,0.407
+"Currently uninsured","Current heart condition",8.227,1.199,6.158,10.911,NA

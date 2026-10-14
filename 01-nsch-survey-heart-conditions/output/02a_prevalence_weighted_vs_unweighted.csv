@@ -1,0 +1,3 @@
+"approach","estimate_pct","se_pct","lcl_pct","ucl_pct"
+"Unweighted (ignores design)",1.416,0.055,1.309,1.524
+"Design-based (weights, strata, clusters)",1.45,0.06,1.336,1.573

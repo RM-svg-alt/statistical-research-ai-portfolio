@@ -1,0 +1,3 @@
+litellm>=1.40
+biopython>=1.83
+streamlit>=1.35

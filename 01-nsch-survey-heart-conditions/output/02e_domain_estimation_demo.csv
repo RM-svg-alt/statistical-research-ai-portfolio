@@ -1,0 +1,4 @@
+"approach","estimate_pct","se_pct","strata_in_variance"
+"Domain estimation on full design (correct)",10.1022,1.3438,102
+"Design rebuilt on subset (strata dropped)",10.1022,1.3332,78
+"Unweighted binomial (ignores design)",9.472,1.1539,NA

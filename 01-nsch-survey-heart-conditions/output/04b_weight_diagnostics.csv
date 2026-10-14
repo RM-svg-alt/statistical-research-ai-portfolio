@@ -1,0 +1,5 @@
+"weights","n","min","median","max","max_to_min","cv","kish_deff","kish_n_eff"
+"Equal base weights",46681,1563.805,1563.805,1563.805,1,0,1,46681
+"Raked to age x sex, race/ethnicity, income",46681,1081.304,1478.938,2400.697,2.22,0.222,1.049,44480.853
+"Official NSCH final weight (FWC)",46681,258.266,1464.545,6059.553,23.462,0.399,1.159,40261.488
+"FWC trimmed at 3x median, re-raked",46681,258.584,1464.702,4400.225,17.017,0.398,1.158,40296.096

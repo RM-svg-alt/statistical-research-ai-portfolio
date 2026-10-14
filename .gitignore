@@ -1,0 +1,16 @@
+# Data never goes in the repo
+data/
+*.sas7bdat
+*.dta
+*.zip
+
+# Generated synthetic data is regenerated on demand
+**/nsch_synthetic.csv
+
+# Secrets and local files
+.env
+*.log
+.Rhistory
+.RData
+__pycache__/
+.DS_Store

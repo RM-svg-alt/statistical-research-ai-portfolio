@@ -1,0 +1,17 @@
+"variable","weights","estimate_pct","se_pct","benchmark_pct","bias_pct_points","relative_bias_pct"
+"fair_poor_health","Full sample (benchmark)",1.202,0.058,1.202,0,0
+"fair_poor_health","Respondents, unadjusted",1.131,0.068,1.202,-0.071,-5.885
+"fair_poor_health","Propensity-class NR adjustment",1.21,0.075,1.202,0.008,0.704
+"fair_poor_health","NR adjustment + raking",1.227,0.076,1.202,0.025,2.113
+"forgone_care","Full sample (benchmark)",4.279,0.105,4.279,0,0
+"forgone_care","Respondents, unadjusted",4.026,0.122,4.279,-0.253,-5.915
+"forgone_care","Propensity-class NR adjustment",4.217,0.132,4.279,-0.061,-1.434
+"forgone_care","NR adjustment + raking",4.228,0.134,4.279,-0.051,-1.189
+"heart_current","Full sample (benchmark)",1.45,0.06,1.45,0,0
+"heart_current","Respondents, unadjusted",1.436,0.072,1.45,-0.014,-0.978
+"heart_current","Propensity-class NR adjustment",1.44,0.075,1.45,-0.01,-0.677
+"heart_current","NR adjustment + raking",1.448,0.076,1.45,-0.001,-0.103
+"uninsured","Full sample (benchmark)",7.295,0.135,7.295,0,0
+"uninsured","Respondents, unadjusted",5.265,0.137,7.295,-2.03,-27.827
+"uninsured","Propensity-class NR adjustment",6.321,0.166,7.295,-0.973,-13.342
+"uninsured","NR adjustment + raking",6.353,0.167,7.295,-0.941,-12.903
