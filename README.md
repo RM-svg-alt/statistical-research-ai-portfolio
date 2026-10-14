@@ -16,4 +16,4 @@ Biostatistician with 12+ years in pediatric health research. This portfolio cove
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Google Scholar](https://scholar.google.com/your-profile)
+www.linkedin.com/in/rittalmehta    · [Google Scholar](https://scholar.google.com/rittalmehta)
